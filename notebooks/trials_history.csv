@@ -1,0 +1,2 @@
+number,value,datetime_start,datetime_complete,duration,colsample_bytree,learning_rate,max_depth,min_child_samples,num_leaves,reg_alpha,reg_lambda,subsample,system_attrs_completed_rung_0,system_attrs_completed_rung_1,system_attrs_completed_rung_2,state
+0,0.31622396802122354,2025-12-28 00:36:21.554773,2025-12-28 00:36:36.722884,0 days 00:00:15.168111,0.7921625957802981,0.05027048953232835,5,85,234,0.3565437448931386,0.45762894690424977,0.8030343884829607,0.5458895652931732,0.38389941109775094,0.3226662779019408,COMPLETE
