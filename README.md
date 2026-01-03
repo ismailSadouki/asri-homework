@@ -10,7 +10,7 @@
 
 - [Catboost W/optuna](https://github.com/ismailSadouki/asri-homework/blob/main/notebooks/catboost.ipynb)
 - [HistGB W/Optuna](https://github.com/ismailSadouki/asri-homework/blob/main/notebooks/histgb_optuna.ipynb)
-- [Other Models](https://github.com/ismailSadouki/asri-homework/blob/main/notebooks/tree_models.ipynb)
+- [Other Tree Models](https://github.com/ismailSadouki/asri-homework/blob/main/notebooks/tree_models.ipynb)
 
 
 
